@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello World :O
 
+Hello everyone, my name is Patrick I and like computer science (and money 🤑)
+
+I am going to beautify this `README.md`, but so far I am just curating some cool plugins 0.o
 
 [![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=patrick-may)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Proper Repo Inbound....
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SnappyBoye)](https://leetcode.com/SnappyBoye)
+
 <!--
 **patrick-may/patrick-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
