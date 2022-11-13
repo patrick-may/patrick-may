@@ -1,8 +1,9 @@
-### Hello World :O
+# 👋 Hey, I'm Patrick!
 
-Hello everyone, my name is Patrick I and like computer science (and money 🤑)
+Currently:
 
-I am going to beautify this `README.md`, but so far I am just curating some cool plugins 0.o
+|---|
+| Computer Science Student @ [![🐄](https://wooster.edu/)]|
 
 [![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=patrick-may)](https://github.com/anuraghazra/github-readme-stats)
 
