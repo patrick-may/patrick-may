@@ -3,7 +3,7 @@ Pronouns: *he/him/his*
 
 
 ## Contact Information
-| | | |
+| <!-- --> | <!-- --> | <!-- --> |
 | --- | --- | --- |
 | [LinkedIn](https://www.linkedin.com/in/patrick-may-woo/) | [Github](https://www.github.com/patrick-may) | [Email](mailto:pmay24@wooster.edu) |
 
