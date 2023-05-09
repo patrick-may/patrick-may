@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Patrick!
 Pronouns: *he/him/his*
 
-Hey everyone, thanks for stopping by! Feel free to reach out via email or LinkedIn for a quick chat. You can find more detailed information about me at my website [found here](https://patrick-may.github.io)
+Hey everyone, thanks for stopping by! Feel free to reach out via email or LinkedIn for a quick chat. You can find more detailed information about me at my website [found here](https://patrick-may.github.io).
 
 ## Contact Information
 | <!-- --> | <!-- --> | <!-- --> |
@@ -13,10 +13,7 @@ Hey everyone, thanks for stopping by! Feel free to reach out via email or Linked
 
 **Education** - Computer Science Student @ [🐄 (click me!)](https://wooster.edu/) 
 **Classes (Spring 2023)**  
- - CSCI 222 - Programming Languages
- - CSCI 200 - Algorith Analysis 
- - MATH 223 - Combinatorics and Graph Theory 
- - WGSS 120 - Intro to Women's, Gender, and Sexuality Studies 
+ - 😴 on break!
 
 **Activities** 
  - 📈 Jenny Investment Club Vice President 
@@ -31,9 +28,9 @@ Hey everyone, thanks for stopping by! Feel free to reach out via email or Linked
 
 #
 
-Prior development work done in ***Python, C++, Flutter/Dart, MySQL***
+Prior development work done in ***Python, C++, Java (Spring), Flutter/Dart, MySQL, PostgreSQL***
 
-Currently learning ***Rust & BaSH***
+Currently learning ***Zig & BaSH***
  
 #
 [![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=patrick-may)](https://github.com/anuraghazra/github-readme-stats)
