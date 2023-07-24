@@ -58,7 +58,8 @@ Experience w/ the following programming languages:
 I am currently learning:
 
 
-# Some easy plugins
+ ---
+ 
 | Github Stats | Leetcode Stats |
 |  :---: | :---: |
 |[![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=patrick-may)](https://github.com/anuraghazra/github-readme-stats) | [![Leetcode Stats](https://leetcard.jacoblin.cool/SnappyBoye)](https://leetcode.com/SnappyBoye) |
