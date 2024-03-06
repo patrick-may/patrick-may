@@ -17,7 +17,7 @@ Hey everyone, thanks for stopping by! Feel free to reach out via email or Linked
 
 **Education** - Senior Undergrad Computer Science Student @ [**C**ollege **o**f **W**ooster (🐄)](https://wooster.edu/) 
 
-| **Classes (Fall 2023)** |
+| **Classes (Spring 2024)** |
 | :--- |
 | 📄 CSCI-452: Independent Thesis Part 2 |
 | 🎶 MUSC-222: Cello Lessons (Hour) |
